@@ -625,6 +625,7 @@ class UbloxGps(object):
 
     def scale_NAV_PVT(self, nav_payload):
         """
+        UBX-NAV-PVT (0x01 0x07)
         This takes the UBX-NAV-PVT payload and scales the relevant fields
         as it's described in the datasheet.
 
