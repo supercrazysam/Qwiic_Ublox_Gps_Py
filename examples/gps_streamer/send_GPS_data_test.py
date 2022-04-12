@@ -91,7 +91,7 @@ typedef enum {
   uint8_t satellites;
 '''
 
-''''
+'''
 //---------------------------------------------------------------------------------------------------
 int set_double(uint8_t* buf, double v)
 {
@@ -110,7 +110,7 @@ int set_float(uint8_t* buf, float v)
 
 
 
-''''
+'''
 
 
 
@@ -131,29 +131,43 @@ int set_float(uint8_t* buf, float v)
 #     9) set_float => HDOP
 #     10) (uint8_t) satellites
 
+data=[None]*18   #MAGIC number means the total package size
+
+import struct
+
+data[0] = struct.pack("I", 18 )  #MAGIC number
+data[1] = struct.pack("I", 0 )   # 0
+data[2] = struct.pack("I", 250)  #GPSData type enum
+data[3] = struct.pack("I", 0 )   # 0
+data[4] = struct.pack("I", 999)  #source
+data[5] = struct.pack("I", 1  )  #version
+data[6] = struct.pack("I", 0  )  # m_length,(just message length?)  first part of uint16_t
+data[7] = struct.pack("I", 10 )  # m_length,(just message length?)  second part of uint16_t
+
+data[8]  = struct.pack("d", 12345)   #timestamp
+data[9]  = struct.pack("I", 0 )    #type
+data[10]  = struct.pack("I", 5 )    #fix
+data[11]  = struct.pack("d", 500)   #position_x
+data[12]  = struct.pack("d", 300)   #position_y
+data[13]  = struct.pack("I", 10 )   #UTMzone
+data[14]  = struct.pack("I", 99 )   #UTMLetter  #char?
+data[15]  = struct.pack("d", 20 )   #Altitude
+data[16]  = struct.pack("f", 77 )   #HDOP
+data[17] = struct.pack("I", 9  )   #satellites
 
 
 
 sys.exit(0)
 
 
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) #UDP
+client_socket.settimeout(1.0)
 
+message = b''.join(data)
+addr = ("127.0.0.1", 8001)
 
+while True:
 
-#example UDP client sender
-for pings in range(10):
-    client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) #UDP
-    client_socket.settimeout(1.0)
-    message = b'test'
-    addr = ("127.0.0.1", 12000)
-
-    start = time.time()
     client_socket.sendto(message, addr)
-    try:
-        data, server = client_socket.recvfrom(1024)
-        end = time.time()
-        elapsed = end - start
-        print(f'{data} {pings} {elapsed}')
-    except socket.timeout:
-        print('REQUEST TIMED OUT')
+    time.sleep(0.5)
 
