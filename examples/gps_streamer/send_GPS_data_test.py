@@ -157,9 +157,6 @@ data[17] = struct.pack("I", 9  )   #satellites
 
 
 
-sys.exit(0)
-
-
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) #UDP
 client_socket.settimeout(1.0)
 
