@@ -162,14 +162,14 @@ data[17] = struct.pack("I", 9  )   #satellites
 
 #@param length Length of the internal serialized structure
 
-data[0] = struct.pack("=B", 18 )  #MAGIC number
+data[0] = struct.pack("=B", 17 )  #MAGIC number
 data[1] = struct.pack("=B", 0 )   # 0
 data[2] = struct.pack("=B", 250)  #GPSData type enum
 data[3] = struct.pack("=B", 0 )   # 0
 data[4] = struct.pack("=B", 0)  #source  # old value = 5 
 data[5] = struct.pack("=B", 1  )  #version
 data[6] = struct.pack("=B", 0  )  # m_length,(just message length?)  first part of uint16_t
-data[7] = struct.pack("=B", 10 )  # m_length,(just message length?)  second part of uint16_t
+data[7] = struct.pack("=B", 0 )  # m_length,(just message length?)  second part of uint16_t
 
 data[8]   = struct.pack("d", 1234)   #timestamp      d= 8    #either this or pos X Y crashed 
 data[9]   = struct.pack("=B", 0 )    #type             1
@@ -182,13 +182,6 @@ data[15]  = struct.pack("d", 20 )   #Altitude             d=8
 data[16]  = struct.pack("f", 77 )   #HDOP                f =4
 data[17]  = struct.pack("=B", 9  )   #satellites           1
 
-pure_data = data[8:]  #data excluding header
-
-pure_data_len = len(b''.join(pure_data))
-
-print(pure_data_len)
-
-data[7] = struct.pack("=B", pure_data_len )  # m_length,(just message length?)  second part of uint16_t
 
 
 
@@ -223,5 +216,5 @@ addr = ("127.0.0.1", 1603)
 while True:
 
     client_socket.sendto(message, addr)
-    time.sleep(0.5)
+    time.sleep(0.2)
 
