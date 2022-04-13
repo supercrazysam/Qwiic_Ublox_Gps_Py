@@ -43,11 +43,11 @@
 # pylint: disable=line-too-long, bad-whitespace, invalid-name, too-many-public-methods
 #
 
-#print("TEST1")
+print("TEST1")
 import struct
 import serial
 
-#print("TEST2")
+print("TEST2")
 
 from . import sparkfun_predefines as sp
 from . import core
