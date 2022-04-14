@@ -1,0 +1,976 @@
+==============================
+13/4/2022
+UTC Time 21:9:10
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640998
+Latitude:  40.473070799999995
+Height (above ellipsoid):  173138
+Height (above mean sea level):  207423
+Accuracy error estimate (Horizontial) [mm]: 558
+Accuracy error estimate (Vertical) [mm]: 641
+NED north velocity [mm/s] -9
+NED east  velocity [mm/s] -2
+NED down  velocity [mm/s] -77
+Ground speed 2D [mm/s] 9
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:11
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640995
+Latitude:  40.473070899999996
+Height (above ellipsoid):  172996
+Height (above mean sea level):  207281
+Accuracy error estimate (Horizontial) [mm]: 559
+Accuracy error estimate (Vertical) [mm]: 642
+NED north velocity [mm/s] 3
+NED east  velocity [mm/s] -14
+NED down  velocity [mm/s] -45
+Ground speed 2D [mm/s] 14
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:12
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640994
+Latitude:  40.4730701
+Height (above ellipsoid):  172940
+Height (above mean sea level):  207225
+Accuracy error estimate (Horizontial) [mm]: 553
+Accuracy error estimate (Vertical) [mm]: 672
+NED north velocity [mm/s] 17
+NED east  velocity [mm/s] -8
+NED down  velocity [mm/s] -25
+Ground speed 2D [mm/s] 18
+Heading of Motion:  298.39206
+Position pDOP: 1.52
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:13
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640995
+Latitude:  40.47307
+Height (above ellipsoid):  172883
+Height (above mean sea level):  207168
+Accuracy error estimate (Horizontial) [mm]: 556
+Accuracy error estimate (Vertical) [mm]: 665
+NED north velocity [mm/s] 3
+NED east  velocity [mm/s] -15
+NED down  velocity [mm/s] -15
+Ground speed 2D [mm/s] 16
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:14
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640998
+Latitude:  40.47307
+Height (above ellipsoid):  172835
+Height (above mean sea level):  207120
+Accuracy error estimate (Horizontial) [mm]: 564
+Accuracy error estimate (Vertical) [mm]: 627
+NED north velocity [mm/s] 8
+NED east  velocity [mm/s] -8
+NED down  velocity [mm/s] -5
+Ground speed 2D [mm/s] 11
+Heading of Motion:  298.39206
+Position pDOP: 1.59
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:15
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641001
+Latitude:  40.4730699
+Height (above ellipsoid):  172827
+Height (above mean sea level):  207112
+Accuracy error estimate (Horizontial) [mm]: 572
+Accuracy error estimate (Vertical) [mm]: 602
+NED north velocity [mm/s] 4
+NED east  velocity [mm/s] -4
+NED down  velocity [mm/s] 1
+Ground speed 2D [mm/s] 5
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:16
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641005
+Latitude:  40.473069699999996
+Height (above ellipsoid):  172849
+Height (above mean sea level):  207134
+Accuracy error estimate (Horizontial) [mm]: 560
+Accuracy error estimate (Vertical) [mm]: 584
+NED north velocity [mm/s] 7
+NED east  velocity [mm/s] -6
+NED down  velocity [mm/s] 2
+Ground speed 2D [mm/s] 9
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:17
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>1
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96410039999999
+Latitude:  40.4730694
+Height (above ellipsoid):  172898
+Height (above mean sea level):  207183
+Accuracy error estimate (Horizontial) [mm]: 1833
+Accuracy error estimate (Vertical) [mm]: 1380
+NED north velocity [mm/s] 28
+NED east  velocity [mm/s] -4
+NED down  velocity [mm/s] -2
+Ground speed 2D [mm/s] 29
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:18
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96410039999999
+Latitude:  40.4730689
+Height (above ellipsoid):  172941
+Height (above mean sea level):  207226
+Accuracy error estimate (Horizontial) [mm]: 1849
+Accuracy error estimate (Vertical) [mm]: 1409
+NED north velocity [mm/s] 11
+NED east  velocity [mm/s] -17
+NED down  velocity [mm/s] -3
+Ground speed 2D [mm/s] 20
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:19
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641008
+Latitude:  40.4730683
+Height (above ellipsoid):  172972
+Height (above mean sea level):  207257
+Accuracy error estimate (Horizontial) [mm]: 1864
+Accuracy error estimate (Vertical) [mm]: 1444
+NED north velocity [mm/s] 17
+NED east  velocity [mm/s] -8
+NED down  velocity [mm/s] -2
+Ground speed 2D [mm/s] 19
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:20
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641006
+Latitude:  40.473068
+Height (above ellipsoid):  173041
+Height (above mean sea level):  207326
+Accuracy error estimate (Horizontial) [mm]: 1881
+Accuracy error estimate (Vertical) [mm]: 1483
+NED north velocity [mm/s] 16
+NED east  velocity [mm/s] -1
+NED down  velocity [mm/s] -3
+Ground speed 2D [mm/s] 16
+Heading of Motion:  298.39206
+Position pDOP: 1.42
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:21
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641003
+Latitude:  40.473067799999995
+Height (above ellipsoid):  173119
+Height (above mean sea level):  207404
+Accuracy error estimate (Horizontial) [mm]: 1898
+Accuracy error estimate (Vertical) [mm]: 1527
+NED north velocity [mm/s] 8
+NED east  velocity [mm/s] -5
+NED down  velocity [mm/s] -6
+Ground speed 2D [mm/s] 9
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:22
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96410019999999
+Latitude:  40.4730676
+Height (above ellipsoid):  173203
+Height (above mean sea level):  207488
+Accuracy error estimate (Horizontial) [mm]: 1915
+Accuracy error estimate (Vertical) [mm]: 1574
+NED north velocity [mm/s] -4
+NED east  velocity [mm/s] -7
+NED down  velocity [mm/s] -8
+Ground speed 2D [mm/s] 8
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:23
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641
+Latitude:  40.4730673
+Height (above ellipsoid):  173274
+Height (above mean sea level):  207559
+Accuracy error estimate (Horizontial) [mm]: 1931
+Accuracy error estimate (Vertical) [mm]: 1625
+NED north velocity [mm/s] 8
+NED east  velocity [mm/s] -1
+NED down  velocity [mm/s] -9
+Ground speed 2D [mm/s] 9
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:24
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640999
+Latitude:  40.4730669
+Height (above ellipsoid):  173348
+Height (above mean sea level):  207633
+Accuracy error estimate (Horizontial) [mm]: 1947
+Accuracy error estimate (Vertical) [mm]: 1678
+NED north velocity [mm/s] 5
+NED east  velocity [mm/s] 6
+NED down  velocity [mm/s] -10
+Ground speed 2D [mm/s] 8
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:25
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96410039999999
+Latitude:  40.4730661
+Height (above ellipsoid):  173416
+Height (above mean sea level):  207701
+Accuracy error estimate (Horizontial) [mm]: 1962
+Accuracy error estimate (Vertical) [mm]: 1733
+NED north velocity [mm/s] 9
+NED east  velocity [mm/s] -3
+NED down  velocity [mm/s] -11
+Ground speed 2D [mm/s] 9
+Heading of Motion:  298.39206
+Position pDOP: 1.33
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:26
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9641001
+Latitude:  40.4730659
+Height (above ellipsoid):  173493
+Height (above mean sea level):  207778
+Accuracy error estimate (Horizontial) [mm]: 1978
+Accuracy error estimate (Vertical) [mm]: 1790
+NED north velocity [mm/s] 16
+NED east  velocity [mm/s] 5
+NED down  velocity [mm/s] -11
+Ground speed 2D [mm/s] 16
+Heading of Motion:  298.39206
+Position pDOP: 1.45
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:27
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640957
+Latitude:  40.473065
+Height (above ellipsoid):  173714
+Height (above mean sea level):  207999
+Accuracy error estimate (Horizontial) [mm]: 1942
+Accuracy error estimate (Vertical) [mm]: 1842
+NED north velocity [mm/s] 0
+NED east  velocity [mm/s] -5
+NED down  velocity [mm/s] 5
+Ground speed 2D [mm/s] 5
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:28
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640921
+Latitude:  40.4730639
+Height (above ellipsoid):  173957
+Height (above mean sea level):  208241
+Accuracy error estimate (Horizontial) [mm]: 1917
+Accuracy error estimate (Vertical) [mm]: 1904
+NED north velocity [mm/s] 1
+NED east  velocity [mm/s] 4
+NED down  velocity [mm/s] -8
+Ground speed 2D [mm/s] 4
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:29
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640891
+Latitude:  40.473062899999995
+Height (above ellipsoid):  174168
+Height (above mean sea level):  208453
+Accuracy error estimate (Horizontial) [mm]: 1899
+Accuracy error estimate (Vertical) [mm]: 1973
+NED north velocity [mm/s] 18
+NED east  velocity [mm/s] 2
+NED down  velocity [mm/s] 27
+Ground speed 2D [mm/s] 19
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:30
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640869
+Latitude:  40.4730614
+Height (above ellipsoid):  174411
+Height (above mean sea level):  208696
+Accuracy error estimate (Horizontial) [mm]: 1884
+Accuracy error estimate (Vertical) [mm]: 2044
+NED north velocity [mm/s] 28
+NED east  velocity [mm/s] 3
+NED down  velocity [mm/s] 69
+Ground speed 2D [mm/s] 28
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:31
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640845
+Latitude:  40.4730606
+Height (above ellipsoid):  174712
+Height (above mean sea level):  208997
+Accuracy error estimate (Horizontial) [mm]: 1875
+Accuracy error estimate (Vertical) [mm]: 2109
+NED north velocity [mm/s] 22
+NED east  velocity [mm/s] 1
+NED down  velocity [mm/s] 57
+Ground speed 2D [mm/s] 22
+Heading of Motion:  298.39206
+Position pDOP: 1.45
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:32
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96408249999999
+Latitude:  40.4730596
+Height (above ellipsoid):  175010
+Height (above mean sea level):  209295
+Accuracy error estimate (Horizontial) [mm]: 1867
+Accuracy error estimate (Vertical) [mm]: 2172
+NED north velocity [mm/s] 22
+NED east  velocity [mm/s] 15
+NED down  velocity [mm/s] 59
+Ground speed 2D [mm/s] 26
+Heading of Motion:  298.39206
+Position pDOP: 1.42
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:33
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96408129999999
+Latitude:  40.4730585
+Height (above ellipsoid):  175307
+Height (above mean sea level):  209592
+Accuracy error estimate (Horizontial) [mm]: 1862
+Accuracy error estimate (Vertical) [mm]: 2233
+NED north velocity [mm/s] 18
+NED east  velocity [mm/s] -2
+NED down  velocity [mm/s] 50
+Ground speed 2D [mm/s] 18
+Heading of Motion:  298.39206
+Position pDOP: 1.42
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:34
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640804
+Latitude:  40.473056799999995
+Height (above ellipsoid):  175671
+Height (above mean sea level):  209956
+Accuracy error estimate (Horizontial) [mm]: 1858
+Accuracy error estimate (Vertical) [mm]: 2291
+NED north velocity [mm/s] 18
+NED east  velocity [mm/s] 11
+NED down  velocity [mm/s] 48
+Ground speed 2D [mm/s] 22
+Heading of Motion:  298.39206
+Position pDOP: 1.46
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:35
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640798
+Latitude:  40.4730552
+Height (above ellipsoid):  176017
+Height (above mean sea level):  210302
+Accuracy error estimate (Horizontial) [mm]: 1855
+Accuracy error estimate (Vertical) [mm]: 2348
+NED north velocity [mm/s] -3
+NED east  velocity [mm/s] -10
+NED down  velocity [mm/s] 13
+Ground speed 2D [mm/s] 11
+Heading of Motion:  298.39206
+Position pDOP: 1.46
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:36
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96407889999999
+Latitude:  40.4730539
+Height (above ellipsoid):  176310
+Height (above mean sea level):  210595
+Accuracy error estimate (Horizontial) [mm]: 1854
+Accuracy error estimate (Vertical) [mm]: 2403
+NED north velocity [mm/s] -1
+NED east  velocity [mm/s] -1
+NED down  velocity [mm/s] 11
+Ground speed 2D [mm/s] 1
+Heading of Motion:  298.39206
+Position pDOP: 1.54
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:37
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640781
+Latitude:  40.473053
+Height (above ellipsoid):  176681
+Height (above mean sea level):  210966
+Accuracy error estimate (Horizontial) [mm]: 1852
+Accuracy error estimate (Vertical) [mm]: 2454
+NED north velocity [mm/s] 4
+NED east  velocity [mm/s] 0
+NED down  velocity [mm/s] -5
+Ground speed 2D [mm/s] 4
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:38
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.964078
+Latitude:  40.4730523
+Height (above ellipsoid):  177051
+Height (above mean sea level):  211336
+Accuracy error estimate (Horizontial) [mm]: 1856
+Accuracy error estimate (Vertical) [mm]: 2504
+NED north velocity [mm/s] 5
+NED east  velocity [mm/s] 2
+NED down  velocity [mm/s] -6
+Ground speed 2D [mm/s] 5
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:39
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96407719999999
+Latitude:  40.473051399999996
+Height (above ellipsoid):  177401
+Height (above mean sea level):  211686
+Accuracy error estimate (Horizontial) [mm]: 1859
+Accuracy error estimate (Vertical) [mm]: 2558
+NED north velocity [mm/s] -4
+NED east  velocity [mm/s] -5
+NED down  velocity [mm/s] 10
+Ground speed 2D [mm/s] 7
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:40
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640775
+Latitude:  40.4730504
+Height (above ellipsoid):  177756
+Height (above mean sea level):  212041
+Accuracy error estimate (Horizontial) [mm]: 1867
+Accuracy error estimate (Vertical) [mm]: 2610
+NED north velocity [mm/s] -4
+NED east  velocity [mm/s] 2
+NED down  velocity [mm/s] 17
+Ground speed 2D [mm/s] 5
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:41
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640773
+Latitude:  40.47305
+Height (above ellipsoid):  178106
+Height (above mean sea level):  212391
+Accuracy error estimate (Horizontial) [mm]: 1879
+Accuracy error estimate (Vertical) [mm]: 2660
+NED north velocity [mm/s] 28
+NED east  velocity [mm/s] -2
+NED down  velocity [mm/s] 51
+Ground speed 2D [mm/s] 28
+Heading of Motion:  298.39206
+Position pDOP: 1.45
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:42
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96407769999999
+Latitude:  40.473048899999995
+Height (above ellipsoid):  178497
+Height (above mean sea level):  212782
+Accuracy error estimate (Horizontial) [mm]: 1892
+Accuracy error estimate (Vertical) [mm]: 2708
+NED north velocity [mm/s] 19
+NED east  velocity [mm/s] -6
+NED down  velocity [mm/s] 39
+Ground speed 2D [mm/s] 20
+Heading of Motion:  298.39206
+Position pDOP: 1.37
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:43
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640776
+Latitude:  40.4730476
+Height (above ellipsoid):  178898
+Height (above mean sea level):  213183
+Accuracy error estimate (Horizontial) [mm]: 1897
+Accuracy error estimate (Vertical) [mm]: 2752
+NED north velocity [mm/s] 5
+NED east  velocity [mm/s] 5
+NED down  velocity [mm/s] -3
+Ground speed 2D [mm/s] 6
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:44
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640778
+Latitude:  40.473045899999995
+Height (above ellipsoid):  179360
+Height (above mean sea level):  213645
+Accuracy error estimate (Horizontial) [mm]: 1898
+Accuracy error estimate (Vertical) [mm]: 2791
+NED north velocity [mm/s] 7
+NED east  velocity [mm/s] -7
+NED down  velocity [mm/s] 12
+Ground speed 2D [mm/s] 10
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:45
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.96407909999999
+Latitude:  40.473044099999996
+Height (above ellipsoid):  179938
+Height (above mean sea level):  214223
+Accuracy error estimate (Horizontial) [mm]: 1898
+Accuracy error estimate (Vertical) [mm]: 2823
+NED north velocity [mm/s] 25
+NED east  velocity [mm/s] -1
+NED down  velocity [mm/s] 39
+Ground speed 2D [mm/s] 25
+Heading of Motion:  298.39206
+Position pDOP: 1.3900000000000001
+ Number of satellites used to get position =>15
+==============================
+13/4/2022
+UTC Time 21:9:46
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+Longitude:  -79.9640795
+Latitude:  40.4730431
+Height (above ellipsoid):  180440
+Height (above mean sea level):  214725
+Accuracy error estimate (Horizontial) [mm]: 1904
+Accuracy error estimate (Vertical) [mm]: 2858
+NED north velocity [mm/s] 12
+NED east  velocity [mm/s] 1
+NED down  velocity [mm/s] 21
+Ground speed 2D [mm/s] 12
+Heading of Motion:  298.39206
+Position pDOP: 1.47
+ Number of satellites used to get position =>14
+==============================
+13/4/2022
+UTC Time 21:9:47
+Valid date:1
+Valid Time:1
+==============================
+valid(validDate=1, validTime=1, fullyResolved=1, validMag=0)
+==============================
+fixType (GPS health) =>3
+fix status - valid fix? =>1
+fix status - differential correction used? =>0
+fix status - power mode =>0
+fix status - heading valid? =>0
+

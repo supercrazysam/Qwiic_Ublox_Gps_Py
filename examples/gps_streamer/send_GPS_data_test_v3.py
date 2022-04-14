@@ -172,11 +172,11 @@ data[9]   = struct.pack("=B", 0 )    #type             1
 data[10]  = struct.pack("=B", 5 )    #fix               1
 data[11]  = struct.pack("d", 5000)    #position_x     d= 8
 data[12]  = struct.pack("d", 5010)   #position_y         d= 8
-data[13]  = struct.pack("=B", 10 )   #UTMzone               1    (ord)
-data[14]  = struct.pack("=B", 99 )   #UTMLetter  #char?     1    (ord)
+data[13]  = struct.pack("=B", 80 )   #UTMzone               1    (ord)
+data[14]  = struct.pack("=B", ord("c"))   #UTMLetter  #char?     1    (ord)
 data[15]  = struct.pack("d", 20 )   #Altitude             d=8
 data[16]  = struct.pack("f", 77 )   #HDOP                f =4
-data[17]  = struct.pack("=B", 9  )   #satellites           1    (ord)
+data[17]  = struct.pack("=B", ord("9")  )   #satellites           1    (ord)
 
 
 
