@@ -116,8 +116,12 @@ while True:
     print("="*30)
 
     gps_status = geo
-
-    #print("Last correction time =>"+str(gps_status.flags3.lastCorrectionAge))
+    try:
+        print("Last correction time =>"+str(gps_status.flags3.lastCorrectionAge))
+    except AttributeError:
+        print("Last correction time => NULL (probably no RTK yet)")
+        
+    print("fix status - RTK status [1=float, 2=fixed] =>"+str(gps_status.flags.carrSoln)) #0 1 float 2 fix        
     print("fixType (GPS health) =>"+str(gps_status.fixType))
     print("fix status - valid fix? =>"+str(gps_status.flags.gnssFixOK))
     print("fix status - differential correction used? =>"+str(gps_status.flags.diffSoln))
@@ -141,7 +145,7 @@ while True:
     #UTM letter
     data[14]  = struct.pack("=B", ord(utm_letter) )
     #Altitude
-    data[15]  = struct.pack("d", geo.height )
+    data[15]  = struct.pack("d", geo.hMSL )  #changed to use mean sea level, due to tradition
     #HDOP
     data[16]  = struct.pack("f", geo.pDOP )
     #satellites

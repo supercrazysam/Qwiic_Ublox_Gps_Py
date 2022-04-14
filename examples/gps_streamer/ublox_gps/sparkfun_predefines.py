@@ -819,6 +819,7 @@ NAV_CLS = core.Cls(0x01, 'NAV', [
         core.Field('pDOP', 'U2'),
         core.BitField('flags3', 'X1', [
             core.Flag('invalidL1h', 0, 1),
+            core.Flag('lastCorrectionAge', 1 ,5),    #added by Sam
         ]),
         core.PadByte(repeat=4),
         core.Field('headVeh', 'I4'),

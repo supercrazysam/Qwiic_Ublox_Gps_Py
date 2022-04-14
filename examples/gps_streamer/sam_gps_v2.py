@@ -38,7 +38,7 @@ from ublox_gps.ublox_gps import UbloxGps
 import time
 
 #port = serial.Serial('/dev/serial0', baudrate=38400, timeout=1)
-port = serial.Serial('/dev/ttyUSB1', baudrate=115200, timeout=1)
+port = serial.Serial('/dev/ttyACM0', baudrate=115200, timeout=1)
 gps = UbloxGps(port)
 
 print("HERE")
@@ -117,13 +117,19 @@ while True:
     print("="*30)
 
     gps_status = geo
-
-    #print("Last correction time =>"+str(gps_status.flags3.lastCorrectionAge))
+    try:
+        print("Last correction time =>"+str(gps_status.flags3.lastCorrectionAge))
+    except AttributeError:
+        print("Last correction time => NULL (probably no RTK yet)")
+        
+    print("fix status - RTK status [1=float, 2=fixed] =>"+str(gps_status.flags.carrSoln)) #0 1 float 2 fix        
     print("fixType (GPS health) =>"+str(gps_status.fixType))
     print("fix status - valid fix? =>"+str(gps_status.flags.gnssFixOK))
     print("fix status - differential correction used? =>"+str(gps_status.flags.diffSoln))
     print("fix status - power mode =>"+str(gps_status.flags.psmState))
     print("fix status - heading valid? =>"+str(gps_status.flags.headVehValid))
+
+
 
 
 port.close()
