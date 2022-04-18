@@ -128,7 +128,6 @@ while True:
     print("fix status - differential correction used? =>"+str(gps_status.flags.diffSoln))
     print("fix status - power mode =>"+str(gps_status.flags.psmState))
     print("fix status - heading valid? =>"+str(gps_status.flags.headVehValid))
-    print("GPS Time =>"+str(gps_status.iTOW))
 
 
 
